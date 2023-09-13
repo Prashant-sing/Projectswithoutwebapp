@@ -1,0 +1,17 @@
+{
+  "name": "mens-100m",
+  "version": "1.0.0",
+  "description": "olympics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "BloodX",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.0"
+  }
+}
