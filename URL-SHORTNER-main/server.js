@@ -1,6 +1,6 @@
 const express = require('express')
 const mongoose = require('mongoose')
-const ShortUrl = require('./shortUrl')
+const ShortUrl = require('./models/shortUrl')
 const app = express()
 
 
